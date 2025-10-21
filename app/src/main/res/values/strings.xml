@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="title_task_list">Lista zadań</string>
+    <string name="title_task_detail">Szczegóły zadania</string>
+
+    <string name="task_title_label">Tytuł</string>
+    <string name="task_title_hint">Wpisz nazwę zadania</string>
+
+    <string name="task_date_label">Data</string>
+    <string name="task_done_label">Zrobione</string>
+</resources>
